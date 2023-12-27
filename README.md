@@ -1,3 +1,5 @@
+v0.1
+
 # PubSub Project
 
 This project is an implementation of a publish-subscribe (pubsub) system using a Broker, Publisher, and Subscribers. Messages are all in memory. It allows for efficient communication between publishers and subscribers in a decoupled manner.
